@@ -1,0 +1,10002 @@
+[
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Cube",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "London",
+      "Berlin",
+      "Tokyo",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 9 \u00d7 4?",
+    "options": [
+      "46",
+      "26",
+      "35",
+      "36"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Venus",
+      "Saturn",
+      "Uranus",
+      "Mercury"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 100 + 84?",
+    "options": [
+      "179",
+      "194",
+      "184",
+      "185"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 16?",
+    "options": [
+      "4095",
+      "4086",
+      "4096",
+      "4101"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 12?",
+    "options": [
+      "134",
+      "149",
+      "139",
+      "144"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 9?",
+    "options": [
+      "739",
+      "734",
+      "724",
+      "729"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Pentagon",
+      "Ellipse",
+      "Cube",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Neptune",
+      "Mercury",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "C",
+      "Na",
+      "He",
+      "K"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mercury",
+      "Neptune",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 18 \u00d7 17?",
+    "options": [
+      "301",
+      "305",
+      "306",
+      "296"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Cube",
+      "Pentagon",
+      "Ellipse",
+      "Circle"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "Na",
+      "He",
+      "C",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 5?",
+    "options": [
+      "24",
+      "15",
+      "26",
+      "25"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 67 + 9?",
+    "options": [
+      "75",
+      "66",
+      "76",
+      "77"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "90",
+      "110",
+      "120"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Mercury",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Cube",
+      "Pentagon",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Octagon",
+      "Ellipse",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Square",
+      "Cube",
+      "Octagon",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "Na",
+      "He",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.18",
+      "3.14",
+      "3.12"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 83 + 34?",
+    "options": [
+      "117",
+      "127",
+      "118",
+      "107"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.10",
+      "3.14",
+      "3.12"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "90",
+      "110",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "90",
+      "80",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 40 + 30?",
+    "options": [
+      "65",
+      "80",
+      "69",
+      "70"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1729",
+      "1733",
+      "1728",
+      "1738"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "80",
+      "90",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "London",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5822",
+      "5837",
+      "5827",
+      "5832"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 90 + 87?",
+    "options": [
+      "178",
+      "177",
+      "176",
+      "187"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 7?",
+    "options": [
+      "348",
+      "338",
+      "343",
+      "333"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.14",
+      "3.12",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "65",
+      "63",
+      "64",
+      "54"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 10?",
+    "options": [
+      "99",
+      "101",
+      "100",
+      "95"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 20?",
+    "options": [
+      "8005",
+      "7995",
+      "8010",
+      "8000"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "Na",
+      "K",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 68 + 4?",
+    "options": [
+      "72",
+      "82",
+      "71",
+      "73"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "Na",
+      "K",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "80",
+      "90",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "405",
+      "400",
+      "399",
+      "390"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Uranus",
+      "Mercury",
+      "Neptune",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "He",
+      "Na",
+      "K",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Pentagon",
+      "Circle",
+      "Octagon",
+      "Ellipse"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 15?",
+    "options": [
+      "3365",
+      "3380",
+      "3375",
+      "3370"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 79 + 100?",
+    "options": [
+      "169",
+      "180",
+      "179",
+      "184"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 4?",
+    "options": [
+      "26",
+      "15",
+      "16",
+      "6"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Cube",
+      "Ellipse",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Uranus",
+      "Mercury",
+      "Neptune",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "Cl",
+      "He",
+      "K",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 8 \u00d7 13?",
+    "options": [
+      "104",
+      "109",
+      "105",
+      "114"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "C",
+      "K",
+      "Na"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 96 + 67?",
+    "options": [
+      "163",
+      "153",
+      "162",
+      "173"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Mercury",
+      "Jupiter",
+      "Venus",
+      "Uranus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 7?",
+    "options": [
+      "49",
+      "44",
+      "54",
+      "50"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "90",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Cube",
+      "Circle",
+      "Ellipse"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "100",
+      "80",
+      "110"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 2?",
+    "options": [
+      "4",
+      "5",
+      "14",
+      "-1"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 13?",
+    "options": [
+      "2187",
+      "2202",
+      "2192",
+      "2197"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.14",
+      "3.12",
+      "3.16"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 13?",
+    "options": [
+      "2192",
+      "2198",
+      "2197",
+      "2202"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 11 + 18?",
+    "options": [
+      "24",
+      "28",
+      "29",
+      "19"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "90",
+      "120",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 9 \u00d7 4?",
+    "options": [
+      "36",
+      "46",
+      "31",
+      "35"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Octagon",
+      "Pentagon",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Uranus",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 14 \u00d7 18?",
+    "options": [
+      "247",
+      "242",
+      "262",
+      "252"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 11?",
+    "options": [
+      "122",
+      "131",
+      "116",
+      "121"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "K",
+      "Cl",
+      "N",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 16?",
+    "options": [
+      "261",
+      "251",
+      "266",
+      "256"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "K",
+      "Cl",
+      "N",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 15 \u00d7 6?",
+    "options": [
+      "90",
+      "91",
+      "100",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5822",
+      "5831",
+      "5842",
+      "5832"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "36",
+      "31",
+      "41",
+      "26"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Uranus",
+      "Saturn",
+      "Venus",
+      "Neptune"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": [
+      "27",
+      "26",
+      "17",
+      "37"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "225",
+      "226",
+      "224",
+      "235"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.16",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 5?",
+    "options": [
+      "20",
+      "25",
+      "35",
+      "26"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 88 + 21?",
+    "options": [
+      "109",
+      "110",
+      "99",
+      "119"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Uranus",
+      "Mercury"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "74",
+      "59",
+      "54",
+      "64"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Octagon",
+      "Ellipse",
+      "Cube",
+      "Square"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.18",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Octagon",
+      "Hexagon",
+      "Cube",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "New Delhi",
+      "London",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 5 \u00d7 10?",
+    "options": [
+      "60",
+      "49",
+      "50",
+      "55"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 46 + 38?",
+    "options": [
+      "94",
+      "74",
+      "85",
+      "84"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Ellipse",
+      "Pentagon",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.18",
+      "3.10"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Saturn",
+      "Mercury"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 6?",
+    "options": [
+      "211",
+      "217",
+      "206",
+      "216"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Madrid",
+      "Paris",
+      "London"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Ottawa",
+      "London",
+      "Washington, D.C.",
+      "Madrid"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 10?",
+    "options": [
+      "95",
+      "100",
+      "105",
+      "101"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.10",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "He",
+      "Cl",
+      "N",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 28 + 6?",
+    "options": [
+      "33",
+      "29",
+      "34",
+      "44"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Venus",
+      "Uranus",
+      "Saturn",
+      "Mercury"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "N",
+      "Na",
+      "He",
+      "Cl"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Octagon",
+      "Cube",
+      "Circle",
+      "Triangle"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 2 \u00d7 5?",
+    "options": [
+      "11",
+      "9",
+      "0",
+      "10"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Neptune",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "395",
+      "405",
+      "399",
+      "400"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Cube",
+      "Pentagon",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Circle",
+      "Octagon",
+      "Square",
+      "Cube"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 74 + 70?",
+    "options": [
+      "144",
+      "149",
+      "154",
+      "145"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "K",
+      "Na",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 16?",
+    "options": [
+      "4096",
+      "4091",
+      "4106",
+      "4101"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "C",
+      "Na",
+      "He",
+      "Cl"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "Ottawa",
+      "Berlin",
+      "London"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Ottawa",
+      "Madrid",
+      "London"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 2 \u00d7 6?",
+    "options": [
+      "11",
+      "13",
+      "12",
+      "22"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Uranus",
+      "Mercury"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "N",
+      "Cl",
+      "He",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 40 + 32?",
+    "options": [
+      "72",
+      "82",
+      "71",
+      "62"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5827",
+      "5833",
+      "5832",
+      "5822"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.12",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Octagon",
+      "Cube",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 8?",
+    "options": [
+      "512",
+      "513",
+      "511",
+      "517"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Uranus",
+      "Mercury"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 10?",
+    "options": [
+      "1000",
+      "999",
+      "1005",
+      "990"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 17?",
+    "options": [
+      "279",
+      "290",
+      "289",
+      "299"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 89 + 50?",
+    "options": [
+      "139",
+      "140",
+      "138",
+      "134"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.10",
+      "3.18",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Circle",
+      "Hexagon",
+      "Cube",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "Na",
+      "Cl",
+      "He"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Cube",
+      "Hexagon",
+      "Circle",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2739",
+      "2744",
+      "2734",
+      "2754"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "395",
+      "390",
+      "400",
+      "401"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1733",
+      "1728",
+      "1738",
+      "1718"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.10",
+      "3.18",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.12",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "Na",
+      "He",
+      "K"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Pentagon",
+      "Ellipse",
+      "Cube",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 63 + 92?",
+    "options": [
+      "155",
+      "145",
+      "154",
+      "165"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 16?",
+    "options": [
+      "266",
+      "246",
+      "256",
+      "251"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "41",
+      "26",
+      "37",
+      "36"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.18",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "110",
+      "90",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.10",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "London",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Mercury",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 19?",
+    "options": [
+      "361",
+      "362",
+      "371",
+      "360"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Madrid",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "120",
+      "80"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 1 \u00d7 3?",
+    "options": [
+      "3",
+      "13",
+      "8",
+      "2"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 13?",
+    "options": [
+      "168",
+      "170",
+      "169",
+      "164"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "100",
+      "80",
+      "110"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.16",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6859",
+      "6858",
+      "6854",
+      "6860"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.10",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 65 + 37?",
+    "options": [
+      "102",
+      "107",
+      "97",
+      "101"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.18",
+      "3.14",
+      "3.12"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "100",
+      "120",
+      "80"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 5 \u00d7 5?",
+    "options": [
+      "26",
+      "25",
+      "15",
+      "24"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "London",
+      "Paris",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "13",
+      "18",
+      "8",
+      "3"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 13?",
+    "options": [
+      "2187",
+      "2202",
+      "2198",
+      "2197"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6860",
+      "6859",
+      "6869",
+      "6864"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "London"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 37 + 64?",
+    "options": [
+      "101",
+      "106",
+      "91",
+      "111"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "80",
+      "90",
+      "120"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 10?",
+    "options": [
+      "1000",
+      "1005",
+      "1001",
+      "995"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 19 \u00d7 16?",
+    "options": [
+      "294",
+      "304",
+      "299",
+      "303"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Uranus",
+      "Neptune",
+      "Mars"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 17 \u00d7 8?",
+    "options": [
+      "141",
+      "131",
+      "126",
+      "136"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 56 + 74?",
+    "options": [
+      "129",
+      "130",
+      "120",
+      "140"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "80",
+      "90",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Madrid",
+      "Tokyo",
+      "Ottawa",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "-2",
+      "18",
+      "9",
+      "8"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "K",
+      "He",
+      "N",
+      "Cl"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "120",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "H",
+      "He",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "110",
+      "80",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "Na",
+      "K",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 6?",
+    "options": [
+      "206",
+      "216",
+      "215",
+      "226"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Octagon",
+      "Cube"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "80",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.10",
+      "3.18",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Cube",
+      "Circle",
+      "Ellipse",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "London",
+      "Berlin",
+      "Madrid",
+      "Washington, D.C."
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 18 \u00d7 1?",
+    "options": [
+      "8",
+      "18",
+      "19",
+      "23"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Cube",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 6 \u00d7 19?",
+    "options": [
+      "104",
+      "113",
+      "114",
+      "109"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "He",
+      "Cl",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "31",
+      "35",
+      "46",
+      "36"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Berlin",
+      "Washington, D.C.",
+      "Madrid",
+      "London"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 16 \u00d7 4?",
+    "options": [
+      "64",
+      "74",
+      "63",
+      "59"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 17?",
+    "options": [
+      "4913",
+      "4908",
+      "4923",
+      "4914"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 67 + 26?",
+    "options": [
+      "103",
+      "83",
+      "88",
+      "93"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Octagon",
+      "Ellipse",
+      "Cube",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 20 \u00d7 19?",
+    "options": [
+      "380",
+      "381",
+      "375",
+      "390"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 3?",
+    "options": [
+      "-1",
+      "14",
+      "8",
+      "9"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 12?",
+    "options": [
+      "154",
+      "143",
+      "145",
+      "144"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Ottawa",
+      "London",
+      "Berlin",
+      "Tokyo"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 17?",
+    "options": [
+      "4913",
+      "4918",
+      "4923",
+      "4903"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Ottawa",
+      "London",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 20 \u00d7 10?",
+    "options": [
+      "201",
+      "190",
+      "210",
+      "200"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Ottawa",
+      "Berlin",
+      "Madrid",
+      "New Delhi"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 4 + 38?",
+    "options": [
+      "47",
+      "43",
+      "42",
+      "52"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 16?",
+    "options": [
+      "266",
+      "261",
+      "255",
+      "256"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "London",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.10",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Uranus",
+      "Mars"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 19 \u00d7 14?",
+    "options": [
+      "267",
+      "271",
+      "261",
+      "266"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 89 + 66?",
+    "options": [
+      "145",
+      "154",
+      "150",
+      "155"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "120",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 13?",
+    "options": [
+      "2197",
+      "2196",
+      "2202",
+      "2198"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Neptune",
+      "Venus",
+      "Uranus",
+      "Jupiter"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 57 + 39?",
+    "options": [
+      "96",
+      "95",
+      "106",
+      "97"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "80",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Cube",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5831",
+      "5833",
+      "5827",
+      "5832"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 2?",
+    "options": [
+      "5",
+      "-1",
+      "14",
+      "4"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "120",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Cube",
+      "Pentagon",
+      "Octagon",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "London",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.16",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.10",
+      "3.12",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.18",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Pentagon",
+      "Octagon",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Ellipse",
+      "Octagon",
+      "Triangle",
+      "Cube"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2744",
+      "2749",
+      "2745",
+      "2739"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2749",
+      "2744",
+      "2734",
+      "2754"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6858",
+      "6854",
+      "6849",
+      "6859"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 12 \u00d7 15?",
+    "options": [
+      "179",
+      "180",
+      "190",
+      "181"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Neptune",
+      "Earth",
+      "Venus",
+      "Uranus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Cube",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1727",
+      "1729",
+      "1723",
+      "1728"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Cl",
+      "Na",
+      "N",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Berlin",
+      "Ottawa",
+      "Tokyo",
+      "Madrid"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Venus",
+      "Uranus",
+      "Neptune",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 18?",
+    "options": [
+      "329",
+      "323",
+      "319",
+      "324"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "London",
+      "Washington, D.C.",
+      "Berlin",
+      "Ottawa"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Cube",
+      "Circle",
+      "Ellipse"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.16",
+      "3.10"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Cube",
+      "Circle",
+      "Square",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "O",
+      "K",
+      "Cl",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.14",
+      "3.16",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 19 \u00d7 9?",
+    "options": [
+      "170",
+      "166",
+      "181",
+      "171"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 99 + 48?",
+    "options": [
+      "147",
+      "137",
+      "157",
+      "142"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Berlin",
+      "Washington, D.C.",
+      "Madrid",
+      "Ottawa"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6854",
+      "6860",
+      "6859",
+      "6858"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "120",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "36",
+      "41",
+      "31",
+      "37"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Circle",
+      "Hexagon",
+      "Octagon",
+      "Cube"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 16 \u00d7 18?",
+    "options": [
+      "288",
+      "278",
+      "293",
+      "289"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "410",
+      "400",
+      "405",
+      "399"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 3 \u00d7 6?",
+    "options": [
+      "17",
+      "23",
+      "19",
+      "18"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "London",
+      "Ottawa",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 13?",
+    "options": [
+      "174",
+      "169",
+      "170",
+      "159"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "110",
+      "90",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5832",
+      "5822",
+      "5831",
+      "5827"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Octagon",
+      "Cube",
+      "Ellipse",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "80",
+      "110"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 8 \u00d7 16?",
+    "options": [
+      "118",
+      "138",
+      "128",
+      "133"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "Cl",
+      "He",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "80",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Ellipse",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "K",
+      "Cl",
+      "He",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 9?",
+    "options": [
+      "82",
+      "86",
+      "81",
+      "71"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Ellipse",
+      "Cube",
+      "Hexagon",
+      "Octagon"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 3 \u00d7 20?",
+    "options": [
+      "55",
+      "60",
+      "61",
+      "50"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 10?",
+    "options": [
+      "100",
+      "101",
+      "95",
+      "99"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 65 + 3?",
+    "options": [
+      "68",
+      "69",
+      "67",
+      "73"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.18",
+      "3.16",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 16?",
+    "options": [
+      "251",
+      "261",
+      "256",
+      "257"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Mercury",
+      "Saturn",
+      "Neptune",
+      "Venus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "90",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "100",
+      "110",
+      "80"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Neptune",
+      "Mercury",
+      "Venus",
+      "Mars"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "London",
+      "Ottawa",
+      "Tokyo",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Cube",
+      "Pentagon",
+      "Ellipse",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 6?",
+    "options": [
+      "206",
+      "216",
+      "226",
+      "211"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "London",
+      "Tokyo"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Cube",
+      "Ellipse",
+      "Pentagon",
+      "Octagon"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "Ottawa",
+      "London",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.16",
+      "3.18"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "Cl",
+      "K",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.10",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 33 + 95?",
+    "options": [
+      "127",
+      "128",
+      "133",
+      "123"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": [
+      "27",
+      "28",
+      "37",
+      "17"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Na",
+      "K",
+      "N",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.12",
+      "3.16",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 17?",
+    "options": [
+      "279",
+      "284",
+      "289",
+      "294"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "80",
+      "90"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 47 + 69?",
+    "options": [
+      "121",
+      "115",
+      "116",
+      "111"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Cube",
+      "Octagon",
+      "Square",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 9 \u00d7 16?",
+    "options": [
+      "145",
+      "139",
+      "134",
+      "144"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.18",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "110",
+      "90",
+      "120"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Mercury",
+      "Uranus",
+      "Venus",
+      "Jupiter"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.10",
+      "3.18",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Cl",
+      "N",
+      "K",
+      "He"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 8?",
+    "options": [
+      "65",
+      "74",
+      "63",
+      "64"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 58 + 30?",
+    "options": [
+      "87",
+      "78",
+      "88",
+      "83"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Square",
+      "Circle",
+      "Ellipse",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "230",
+      "220",
+      "226",
+      "225"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1728",
+      "1723",
+      "1718",
+      "1729"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 48 + 96?",
+    "options": [
+      "145",
+      "144",
+      "143",
+      "139"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.12",
+      "3.14",
+      "3.10"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Uranus",
+      "Jupiter"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5827",
+      "5842",
+      "5832",
+      "5822"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 19?",
+    "options": [
+      "361",
+      "362",
+      "360",
+      "366"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 11 \u00d7 8?",
+    "options": [
+      "89",
+      "83",
+      "88",
+      "87"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Mercury",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.18",
+      "3.16",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 18 \u00d7 6?",
+    "options": [
+      "109",
+      "103",
+      "108",
+      "107"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "74",
+      "54",
+      "65",
+      "64"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "-2",
+      "8",
+      "13",
+      "18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Paris",
+      "Ottawa",
+      "Madrid"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "Cl",
+      "H",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "8",
+      "13",
+      "7",
+      "9"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.10",
+      "3.12",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Uranus",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "London",
+      "Madrid",
+      "Tokyo",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Ottawa",
+      "Tokyo",
+      "Madrid",
+      "London"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Triangle",
+      "Octagon"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "London",
+      "Washington, D.C."
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 77 + 11?",
+    "options": [
+      "98",
+      "78",
+      "88",
+      "89"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "405",
+      "400",
+      "401",
+      "399"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Paris",
+      "London",
+      "Ottawa"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "London",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1729",
+      "1738",
+      "1728",
+      "1723"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.10",
+      "3.16"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 52 + 84?",
+    "options": [
+      "136",
+      "135",
+      "126",
+      "137"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 16?",
+    "options": [
+      "4097",
+      "4095",
+      "4091",
+      "4096"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Madrid",
+      "London",
+      "Washington, D.C.",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Venus",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 18?",
+    "options": [
+      "325",
+      "324",
+      "314",
+      "319"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "Berlin",
+      "London",
+      "Ottawa"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 26 + 70?",
+    "options": [
+      "86",
+      "91",
+      "96",
+      "106"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "Ottawa",
+      "London",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 11?",
+    "options": [
+      "111",
+      "131",
+      "126",
+      "121"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Uranus",
+      "Venus",
+      "Jupiter",
+      "Neptune"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Venus",
+      "Mars"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "London",
+      "Ottawa",
+      "New Delhi"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 51 + 64?",
+    "options": [
+      "105",
+      "116",
+      "114",
+      "115"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.10",
+      "3.18",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 29 + 34?",
+    "options": [
+      "63",
+      "68",
+      "62",
+      "73"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5837",
+      "5831",
+      "5827",
+      "5832"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 16 \u00d7 6?",
+    "options": [
+      "97",
+      "86",
+      "96",
+      "101"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 3 + 55?",
+    "options": [
+      "68",
+      "58",
+      "59",
+      "63"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Ottawa",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Pentagon",
+      "Octagon",
+      "Circle",
+      "Ellipse"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "He",
+      "Na",
+      "K"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 19?",
+    "options": [
+      "362",
+      "356",
+      "366",
+      "361"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2734",
+      "2745",
+      "2744",
+      "2754"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.16",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "He",
+      "Na",
+      "Cl",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 5 \u00d7 5?",
+    "options": [
+      "35",
+      "15",
+      "24",
+      "25"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "Ottawa",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.10",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "100",
+      "120",
+      "80"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 19 \u00d7 7?",
+    "options": [
+      "123",
+      "143",
+      "133",
+      "132"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 18 + 61?",
+    "options": [
+      "74",
+      "69",
+      "79",
+      "80"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "Na",
+      "Cl",
+      "He",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 1 \u00d7 18?",
+    "options": [
+      "18",
+      "17",
+      "13",
+      "8"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.16",
+      "3.18"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "120",
+      "100",
+      "80"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.10",
+      "3.16",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "36",
+      "37",
+      "46",
+      "41"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 45 + 19?",
+    "options": [
+      "65",
+      "64",
+      "69",
+      "54"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Circle",
+      "Cube",
+      "Hexagon",
+      "Octagon"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "London",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2745",
+      "2749",
+      "2739",
+      "2744"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "Cl",
+      "K",
+      "C",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.12",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 18 \u00d7 3?",
+    "options": [
+      "49",
+      "44",
+      "55",
+      "54"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "90",
+      "120"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "Na",
+      "H",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Uranus",
+      "Mercury",
+      "Neptune",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 13?",
+    "options": [
+      "2207",
+      "2197",
+      "2202",
+      "2196"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 14 \u00d7 10?",
+    "options": [
+      "130",
+      "140",
+      "150",
+      "135"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 17 \u00d7 19?",
+    "options": [
+      "323",
+      "318",
+      "313",
+      "322"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "New Delhi",
+      "London"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1728",
+      "1733",
+      "1729",
+      "1723"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 44 + 25?",
+    "options": [
+      "64",
+      "69",
+      "79",
+      "74"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.16",
+      "3.12",
+      "3.18"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 6?",
+    "options": [
+      "215",
+      "226",
+      "216",
+      "211"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "Cl",
+      "He",
+      "K",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Octagon",
+      "Hexagon",
+      "Circle",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 29 + 79?",
+    "options": [
+      "103",
+      "118",
+      "108",
+      "107"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Venus",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "100",
+      "120",
+      "110"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.12",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 8?",
+    "options": [
+      "502",
+      "513",
+      "512",
+      "517"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.10",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Madrid",
+      "London",
+      "Berlin"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Na",
+      "He",
+      "Cl",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 1 \u00d7 6?",
+    "options": [
+      "-4",
+      "5",
+      "11",
+      "6"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Neptune",
+      "Mercury",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Neptune",
+      "Venus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Venus",
+      "Neptune",
+      "Uranus",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.10",
+      "3.12"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "225",
+      "215",
+      "230",
+      "235"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Square",
+      "Cube",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Square",
+      "Ellipse",
+      "Circle",
+      "Cube"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 5?",
+    "options": [
+      "135",
+      "115",
+      "125",
+      "124"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "395",
+      "401",
+      "405",
+      "400"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Uranus",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Berlin",
+      "Madrid",
+      "London"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 20?",
+    "options": [
+      "8001",
+      "7999",
+      "8000",
+      "7990"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1728",
+      "1723",
+      "1718",
+      "1733"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 17?",
+    "options": [
+      "289",
+      "290",
+      "284",
+      "294"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 12 \u00d7 20?",
+    "options": [
+      "240",
+      "239",
+      "241",
+      "230"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 18 \u00d7 12?",
+    "options": [
+      "211",
+      "217",
+      "216",
+      "206"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Neptune"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2749",
+      "2739",
+      "2734",
+      "2744"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "110",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.10",
+      "3.16",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Jupiter",
+      "Mercury",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Madrid",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 59 + 21?",
+    "options": [
+      "85",
+      "70",
+      "75",
+      "80"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Mercury",
+      "Uranus",
+      "Venus",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.18",
+      "3.14",
+      "3.10"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 19?",
+    "options": [
+      "361",
+      "366",
+      "371",
+      "356"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 15 \u00d7 17?",
+    "options": [
+      "254",
+      "265",
+      "255",
+      "245"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 48 + 29?",
+    "options": [
+      "77",
+      "78",
+      "72",
+      "82"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "London",
+      "Madrid",
+      "Ottawa"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Ellipse",
+      "Octagon",
+      "Cube"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 4 \u00d7 13?",
+    "options": [
+      "47",
+      "51",
+      "62",
+      "52"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 3 \u00d7 3?",
+    "options": [
+      "10",
+      "4",
+      "9",
+      "14"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "110",
+      "90",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6869",
+      "6859",
+      "6860",
+      "6858"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 7 \u00d7 8?",
+    "options": [
+      "51",
+      "66",
+      "56",
+      "61"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Na",
+      "Cl",
+      "He",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Square",
+      "Cube"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 17 \u00d7 19?",
+    "options": [
+      "313",
+      "323",
+      "324",
+      "322"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.12",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Octagon",
+      "Circle",
+      "Cube",
+      "Square"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Circle",
+      "Hexagon",
+      "Cube",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 12 \u00d7 4?",
+    "options": [
+      "38",
+      "53",
+      "47",
+      "48"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "100",
+      "90",
+      "110"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 5 \u00d7 6?",
+    "options": [
+      "30",
+      "31",
+      "25",
+      "40"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 7 + 82?",
+    "options": [
+      "89",
+      "88",
+      "99",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "Berlin",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Circle",
+      "Octagon",
+      "Square",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "120",
+      "100",
+      "80"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 9 + 26?",
+    "options": [
+      "35",
+      "34",
+      "36",
+      "30"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Uranus",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Madrid",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 7 + 30?",
+    "options": [
+      "38",
+      "32",
+      "37",
+      "47"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "New Delhi",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 12 \u00d7 20?",
+    "options": [
+      "250",
+      "235",
+      "240",
+      "239"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.16",
+      "3.10"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 5?",
+    "options": [
+      "26",
+      "25",
+      "24",
+      "20"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Berlin",
+      "Ottawa",
+      "London",
+      "Washington, D.C."
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "90",
+      "120"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "Cl",
+      "C",
+      "K",
+      "He"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Cube",
+      "Octagon",
+      "Circle",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 4 \u00d7 2?",
+    "options": [
+      "18",
+      "8",
+      "9",
+      "3"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 7 \u00d7 5?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "He",
+      "Na",
+      "K",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Venus",
+      "Neptune"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "120",
+      "100",
+      "90"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 9?",
+    "options": [
+      "86",
+      "76",
+      "81",
+      "82"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Saturn",
+      "Uranus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 10 \u00d7 13?",
+    "options": [
+      "130",
+      "135",
+      "125",
+      "131"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 16?",
+    "options": [
+      "4095",
+      "4106",
+      "4096",
+      "4097"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 3?",
+    "options": [
+      "14",
+      "8",
+      "4",
+      "9"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.10",
+      "3.12"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 13?",
+    "options": [
+      "169",
+      "168",
+      "159",
+      "170"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Berlin",
+      "Ottawa",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 17?",
+    "options": [
+      "4913",
+      "4912",
+      "4908",
+      "4918"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "C",
+      "K",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Mercury",
+      "Venus",
+      "Neptune"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Venus",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "He",
+      "H",
+      "Cl"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "Na",
+      "K",
+      "H",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "K",
+      "Cl",
+      "C",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 89 + 77?",
+    "options": [
+      "176",
+      "165",
+      "166",
+      "171"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.10",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 95 + 61?",
+    "options": [
+      "157",
+      "166",
+      "156",
+      "151"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Berlin",
+      "Ottawa",
+      "New Delhi",
+      "Madrid"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 3?",
+    "options": [
+      "8",
+      "9",
+      "19",
+      "14"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 10?",
+    "options": [
+      "110",
+      "105",
+      "100",
+      "95"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 11 \u00d7 2?",
+    "options": [
+      "22",
+      "27",
+      "17",
+      "23"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.18",
+      "3.14",
+      "3.16"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Berlin",
+      "Ottawa",
+      "Tokyo",
+      "Madrid"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Cube",
+      "Octagon",
+      "Ellipse",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Circle",
+      "Octagon",
+      "Triangle",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "80",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 12?",
+    "options": [
+      "145",
+      "154",
+      "144",
+      "134"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Venus",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "Cl",
+      "Na",
+      "He"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Neptune",
+      "Jupiter"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 3?",
+    "options": [
+      "10",
+      "9",
+      "14",
+      "-1"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 36 + 71?",
+    "options": [
+      "107",
+      "117",
+      "102",
+      "112"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Na",
+      "Cl",
+      "O",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 7?",
+    "options": [
+      "49",
+      "44",
+      "54",
+      "39"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "90",
+      "80",
+      "110"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Ellipse",
+      "Hexagon",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "59",
+      "64",
+      "74",
+      "69"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 6?",
+    "options": [
+      "221",
+      "216",
+      "215",
+      "206"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "63",
+      "64",
+      "59",
+      "74"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Uranus",
+      "Mars",
+      "Neptune",
+      "Venus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "41",
+      "46",
+      "35",
+      "36"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 3?",
+    "options": [
+      "19",
+      "9",
+      "10",
+      "14"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 93 + 87?",
+    "options": [
+      "175",
+      "180",
+      "190",
+      "179"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 7?",
+    "options": [
+      "49",
+      "59",
+      "39",
+      "48"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "Cl",
+      "H",
+      "He",
+      "K"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.16",
+      "3.10"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.16",
+      "3.12",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 38 + 24?",
+    "options": [
+      "62",
+      "57",
+      "67",
+      "61"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1738",
+      "1728",
+      "1727",
+      "1733"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 20 \u00d7 13?",
+    "options": [
+      "265",
+      "260",
+      "255",
+      "261"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Berlin",
+      "New Delhi",
+      "Ottawa",
+      "London"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Mercury",
+      "Venus",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Cube",
+      "Circle",
+      "Octagon",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.18",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 8 + 55?",
+    "options": [
+      "62",
+      "58",
+      "73",
+      "63"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2744",
+      "2745",
+      "2739",
+      "2749"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 16?",
+    "options": [
+      "4091",
+      "4095",
+      "4096",
+      "4097"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 16 \u00d7 16?",
+    "options": [
+      "266",
+      "246",
+      "257",
+      "256"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 3?",
+    "options": [
+      "19",
+      "14",
+      "8",
+      "9"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 11?",
+    "options": [
+      "122",
+      "126",
+      "120",
+      "121"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "K",
+      "Cl",
+      "C",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.18",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "He",
+      "Cl",
+      "K",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Saturn",
+      "Mercury",
+      "Venus",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 73 + 93?",
+    "options": [
+      "165",
+      "161",
+      "166",
+      "156"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6858",
+      "6849",
+      "6859",
+      "6854"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "He",
+      "Cl",
+      "K"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "London",
+      "Paris",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "K",
+      "Cl",
+      "C",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 13 \u00d7 17?",
+    "options": [
+      "231",
+      "226",
+      "221",
+      "222"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "London",
+      "Berlin",
+      "Ottawa"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Saturn",
+      "Mercury"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "O",
+      "Cl",
+      "Na",
+      "K"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.10",
+      "3.16"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 11?",
+    "options": [
+      "126",
+      "122",
+      "121",
+      "116"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Cube",
+      "Triangle",
+      "Octagon",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Berlin",
+      "London"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1718",
+      "1723",
+      "1728",
+      "1738"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 17?",
+    "options": [
+      "4908",
+      "4913",
+      "4903",
+      "4918"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "He",
+      "K",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "Cl",
+      "Na",
+      "H",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Ottawa",
+      "Madrid",
+      "Berlin"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 71 + 24?",
+    "options": [
+      "100",
+      "95",
+      "96",
+      "105"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 17 \u00d7 20?",
+    "options": [
+      "335",
+      "340",
+      "341",
+      "330"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 1 + 9?",
+    "options": [
+      "0",
+      "10",
+      "5",
+      "15"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 19 \u00d7 16?",
+    "options": [
+      "305",
+      "314",
+      "304",
+      "294"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "London",
+      "Ottawa",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 76 + 31?",
+    "options": [
+      "106",
+      "108",
+      "97",
+      "107"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "N",
+      "Cl",
+      "K",
+      "He"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 9?",
+    "options": [
+      "81",
+      "82",
+      "71",
+      "76"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Ottawa",
+      "Washington, D.C.",
+      "Berlin",
+      "London"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 3 \u00d7 16?",
+    "options": [
+      "53",
+      "48",
+      "47",
+      "58"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "K",
+      "He",
+      "Na",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "225",
+      "226",
+      "235",
+      "215"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 77 + 38?",
+    "options": [
+      "120",
+      "115",
+      "116",
+      "125"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "120",
+      "100",
+      "90"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Octagon",
+      "Hexagon",
+      "Cube",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Berlin",
+      "Paris",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Ellipse",
+      "Octagon",
+      "Square",
+      "Circle"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Circle",
+      "Hexagon",
+      "Octagon",
+      "Cube"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 17?",
+    "options": [
+      "294",
+      "289",
+      "290",
+      "279"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 14 \u00d7 14?",
+    "options": [
+      "196",
+      "186",
+      "195",
+      "191"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Madrid",
+      "Berlin",
+      "Washington, D.C.",
+      "London"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "225",
+      "235",
+      "220",
+      "224"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 16?",
+    "options": [
+      "266",
+      "257",
+      "246",
+      "256"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "90",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.12",
+      "3.16",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Ellipse",
+      "Triangle",
+      "Octagon",
+      "Circle"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.18",
+      "3.12"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "224",
+      "215",
+      "230",
+      "225"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 10 \u00d7 19?",
+    "options": [
+      "180",
+      "190",
+      "189",
+      "185"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 7?",
+    "options": [
+      "343",
+      "348",
+      "333",
+      "338"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 2 + 15?",
+    "options": [
+      "7",
+      "17",
+      "27",
+      "16"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.12",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Berlin",
+      "Ottawa",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 12?",
+    "options": [
+      "145",
+      "144",
+      "134",
+      "139"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 47 + 50?",
+    "options": [
+      "97",
+      "98",
+      "96",
+      "87"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Berlin",
+      "London",
+      "Ottawa"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Octagon",
+      "Circle",
+      "Ellipse"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "K",
+      "Cl",
+      "He"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 12 \u00d7 13?",
+    "options": [
+      "151",
+      "156",
+      "157",
+      "155"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 2 \u00d7 11?",
+    "options": [
+      "27",
+      "23",
+      "22",
+      "17"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 8?",
+    "options": [
+      "517",
+      "511",
+      "522",
+      "512"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.18",
+      "3.14",
+      "3.10"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 18 \u00d7 7?",
+    "options": [
+      "121",
+      "126",
+      "136",
+      "116"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 4 \u00d7 17?",
+    "options": [
+      "63",
+      "69",
+      "73",
+      "68"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "80",
+      "110",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.12",
+      "3.16",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Mercury",
+      "Neptune",
+      "Venus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 14 \u00d7 8?",
+    "options": [
+      "112",
+      "111",
+      "122",
+      "113"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Ottawa",
+      "Berlin",
+      "London",
+      "Washington, D.C."
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 8 \u00d7 4?",
+    "options": [
+      "32",
+      "42",
+      "33",
+      "22"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "New Delhi",
+      "Ottawa",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "He",
+      "K",
+      "Na",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "K",
+      "O",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Ellipse",
+      "Triangle",
+      "Octagon",
+      "Circle"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 3 + 37?",
+    "options": [
+      "35",
+      "40",
+      "50",
+      "45"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6860",
+      "6859",
+      "6864",
+      "6869"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "410",
+      "400",
+      "390",
+      "401"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.10",
+      "3.18",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Square",
+      "Cube",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 87 + 84?",
+    "options": [
+      "170",
+      "181",
+      "161",
+      "171"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Pentagon",
+      "Cube",
+      "Octagon",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 8?",
+    "options": [
+      "69",
+      "74",
+      "64",
+      "65"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Madrid",
+      "London",
+      "Tokyo",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.10",
+      "3.14",
+      "3.12"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "80",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "K",
+      "N",
+      "Cl",
+      "Na"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 55 + 26?",
+    "options": [
+      "76",
+      "80",
+      "91",
+      "81"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 17 \u00d7 6?",
+    "options": [
+      "102",
+      "101",
+      "97",
+      "92"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 9 + 45?",
+    "options": [
+      "64",
+      "49",
+      "54",
+      "55"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Na",
+      "Cl",
+      "He",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.12",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Ottawa",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Madrid",
+      "London",
+      "Ottawa",
+      "Tokyo"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Uranus",
+      "Saturn",
+      "Mercury",
+      "Venus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "He",
+      "O",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 11 \u00d7 14?",
+    "options": [
+      "155",
+      "159",
+      "154",
+      "153"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 14?",
+    "options": [
+      "196",
+      "201",
+      "186",
+      "206"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "K",
+      "He",
+      "Cl",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "He",
+      "O",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "90",
+      "100",
+      "80"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Octagon",
+      "Ellipse",
+      "Circle",
+      "Square"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "110",
+      "80",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 10?",
+    "options": [
+      "990",
+      "1005",
+      "1000",
+      "999"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 17?",
+    "options": [
+      "4914",
+      "4913",
+      "4908",
+      "4903"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "100",
+      "80",
+      "90"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "London",
+      "Paris",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.12",
+      "3.16",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "He",
+      "Na",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 12 \u00d7 2?",
+    "options": [
+      "24",
+      "29",
+      "25",
+      "34"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Ottawa",
+      "Madrid",
+      "London"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "K",
+      "Cl",
+      "Na",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.10",
+      "3.14",
+      "3.16"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "80",
+      "110"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "80",
+      "90"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "K",
+      "He",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Mercury",
+      "Saturn",
+      "Venus",
+      "Uranus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 73 + 20?",
+    "options": [
+      "93",
+      "92",
+      "83",
+      "103"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "London",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6849",
+      "6864",
+      "6860",
+      "6859"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "Cl",
+      "Na",
+      "H",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "110",
+      "120",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Na",
+      "He",
+      "K",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Na",
+      "Cl",
+      "O",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "He",
+      "Cl",
+      "O",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 44 + 20?",
+    "options": [
+      "69",
+      "64",
+      "63",
+      "59"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "London",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 7?",
+    "options": [
+      "342",
+      "343",
+      "353",
+      "333"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 7 + 65?",
+    "options": [
+      "71",
+      "67",
+      "72",
+      "62"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "54",
+      "64",
+      "69",
+      "65"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Cube",
+      "Circle",
+      "Octagon",
+      "Triangle"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Venus",
+      "Neptune",
+      "Mercury",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 11?",
+    "options": [
+      "111",
+      "121",
+      "120",
+      "122"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 19 \u00d7 18?",
+    "options": [
+      "342",
+      "337",
+      "343",
+      "352"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 18 \u00d7 6?",
+    "options": [
+      "109",
+      "107",
+      "98",
+      "108"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Na",
+      "Cl",
+      "O",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Berlin",
+      "London",
+      "Washington, D.C.",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 5?",
+    "options": [
+      "124",
+      "115",
+      "125",
+      "120"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Ottawa",
+      "Berlin",
+      "London",
+      "Washington, D.C."
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Octagon",
+      "Ellipse",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 46 + 66?",
+    "options": [
+      "112",
+      "111",
+      "102",
+      "107"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 96 + 49?",
+    "options": [
+      "145",
+      "140",
+      "146",
+      "150"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Mercury",
+      "Neptune",
+      "Venus",
+      "Earth"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 2 \u00d7 1?",
+    "options": [
+      "7",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "120",
+      "100",
+      "80"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Berlin",
+      "Ottawa",
+      "London",
+      "New Delhi"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Uranus",
+      "Venus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "80",
+      "110"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 12 \u00d7 18?",
+    "options": [
+      "217",
+      "216",
+      "215",
+      "206"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.10",
+      "3.16",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "He",
+      "Cl",
+      "K",
+      "H"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "C",
+      "He",
+      "Cl",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 13 \u00d7 3?",
+    "options": [
+      "39",
+      "49",
+      "34",
+      "29"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Cube",
+      "Circle",
+      "Square",
+      "Octagon"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 84 + 7?",
+    "options": [
+      "81",
+      "92",
+      "91",
+      "90"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "110",
+      "100",
+      "120"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 8 \u00d7 9?",
+    "options": [
+      "73",
+      "77",
+      "71",
+      "72"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.16",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 7?",
+    "options": [
+      "343",
+      "353",
+      "333",
+      "342"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "London",
+      "Berlin",
+      "Ottawa",
+      "Tokyo"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 13?",
+    "options": [
+      "168",
+      "170",
+      "174",
+      "169"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Cl",
+      "He",
+      "N",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 7?",
+    "options": [
+      "50",
+      "49",
+      "54",
+      "48"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2744",
+      "2734",
+      "2743",
+      "2749"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "80",
+      "90",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 9?",
+    "options": [
+      "76",
+      "86",
+      "81",
+      "80"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 5?",
+    "options": [
+      "25",
+      "24",
+      "20",
+      "30"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Paris",
+      "London",
+      "Ottawa"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Neptune",
+      "Mercury"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "90",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Octagon",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 89 + 67?",
+    "options": [
+      "146",
+      "155",
+      "156",
+      "151"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5842",
+      "5822",
+      "5827",
+      "5832"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "London",
+      "Washington, D.C.",
+      "Madrid",
+      "Ottawa"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 20?",
+    "options": [
+      "8000",
+      "8010",
+      "7995",
+      "7999"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 5?",
+    "options": [
+      "124",
+      "125",
+      "120",
+      "130"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 61 + 6?",
+    "options": [
+      "62",
+      "57",
+      "67",
+      "68"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5842",
+      "5832",
+      "5827",
+      "5837"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 4?",
+    "options": [
+      "6",
+      "11",
+      "16",
+      "15"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Uranus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "-2",
+      "8",
+      "13",
+      "7"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "110",
+      "90",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.14",
+      "3.18",
+      "3.12"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "London",
+      "Ottawa",
+      "Madrid",
+      "Washington, D.C."
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 74 + 32?",
+    "options": [
+      "107",
+      "101",
+      "106",
+      "105"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 50 + 68?",
+    "options": [
+      "118",
+      "108",
+      "117",
+      "128"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 3 + 6?",
+    "options": [
+      "14",
+      "9",
+      "-1",
+      "8"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 65 + 15?",
+    "options": [
+      "81",
+      "79",
+      "70",
+      "80"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Venus",
+      "Neptune",
+      "Mercury",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Neptune",
+      "Mars",
+      "Venus",
+      "Uranus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Uranus",
+      "Mercury"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "220",
+      "215",
+      "225",
+      "226"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 26 + 4?",
+    "options": [
+      "30",
+      "20",
+      "31",
+      "29"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 4?",
+    "options": [
+      "11",
+      "26",
+      "16",
+      "6"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Cube",
+      "Square",
+      "Octagon",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Pentagon",
+      "Cube"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 52 + 44?",
+    "options": [
+      "86",
+      "91",
+      "96",
+      "106"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Octagon",
+      "Cube",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2744",
+      "2743",
+      "2749",
+      "2754"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 6?",
+    "options": [
+      "226",
+      "211",
+      "215",
+      "216"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 7 \u00d7 6?",
+    "options": [
+      "42",
+      "47",
+      "37",
+      "41"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "100",
+      "110",
+      "90"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Na",
+      "O",
+      "Cl",
+      "He"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "K",
+      "Na",
+      "Cl",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 86 + 99?",
+    "options": [
+      "185",
+      "195",
+      "186",
+      "175"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 12?",
+    "options": [
+      "134",
+      "139",
+      "144",
+      "149"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "Cl",
+      "C",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 5 \u00d7 9?",
+    "options": [
+      "55",
+      "45",
+      "50",
+      "46"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "90",
+      "120"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "90",
+      "120",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 92 + 91?",
+    "options": [
+      "173",
+      "183",
+      "188",
+      "193"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 3?",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "4"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Pentagon",
+      "Ellipse",
+      "Circle",
+      "Cube"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 58 + 95?",
+    "options": [
+      "158",
+      "143",
+      "153",
+      "148"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Octagon",
+      "Hexagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "390",
+      "400",
+      "405",
+      "395"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "K",
+      "N",
+      "Na",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "230",
+      "225",
+      "224",
+      "215"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "He",
+      "Cl",
+      "O",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 6 + 3?",
+    "options": [
+      "-1",
+      "10",
+      "9",
+      "14"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Na",
+      "Cl",
+      "N",
+      "K"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "90",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Ellipse",
+      "Triangle",
+      "Circle",
+      "Cube"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "13",
+      "3",
+      "8",
+      "18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Berlin",
+      "Ottawa",
+      "Madrid"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Na",
+      "K",
+      "Cl",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 4?",
+    "options": [
+      "16",
+      "11",
+      "21",
+      "26"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 68 + 6?",
+    "options": [
+      "84",
+      "69",
+      "75",
+      "74"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Uranus",
+      "Mars",
+      "Venus",
+      "Neptune"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 100 + 72?",
+    "options": [
+      "173",
+      "172",
+      "177",
+      "171"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 18 \u00d7 16?",
+    "options": [
+      "293",
+      "288",
+      "278",
+      "283"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Saturn",
+      "Neptune",
+      "Mercury",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 7?",
+    "options": [
+      "338",
+      "353",
+      "348",
+      "343"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "Cl",
+      "K",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "K",
+      "Cl",
+      "C",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Berlin",
+      "London",
+      "Madrid",
+      "Tokyo"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 10?",
+    "options": [
+      "1000",
+      "1001",
+      "990",
+      "999"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "K",
+      "He",
+      "Na",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "He",
+      "Na",
+      "K",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 16?",
+    "options": [
+      "4106",
+      "4096",
+      "4095",
+      "4086"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 26 + 85?",
+    "options": [
+      "116",
+      "110",
+      "121",
+      "111"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 19 \u00d7 12?",
+    "options": [
+      "223",
+      "228",
+      "238",
+      "233"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "80",
+      "120",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Circle",
+      "Square",
+      "Octagon",
+      "Cube"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 8?",
+    "options": [
+      "513",
+      "512",
+      "502",
+      "511"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "Cl",
+      "K",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "C",
+      "Na",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.16",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "O",
+      "K",
+      "He",
+      "Cl"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Neptune",
+      "Venus",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1718",
+      "1729",
+      "1727",
+      "1728"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "K",
+      "O",
+      "He",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "Cl",
+      "Na",
+      "K",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.10",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "Cl",
+      "K",
+      "He"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 95 + 94?",
+    "options": [
+      "190",
+      "179",
+      "194",
+      "189"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 8?",
+    "options": [
+      "64",
+      "74",
+      "54",
+      "65"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "100",
+      "110",
+      "80"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "London",
+      "New Delhi",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": [
+      "27",
+      "17",
+      "32",
+      "37"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Neptune",
+      "Mercury",
+      "Saturn",
+      "Uranus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "120"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2744",
+      "2734",
+      "2749",
+      "2743"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Square",
+      "Octagon",
+      "Cube",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "K",
+      "Na",
+      "Cl",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6860",
+      "6869",
+      "6849",
+      "6859"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Uranus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 8?",
+    "options": [
+      "513",
+      "502",
+      "522",
+      "512"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 7 \u00d7 4?",
+    "options": [
+      "28",
+      "33",
+      "38",
+      "27"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 13?",
+    "options": [
+      "2197",
+      "2198",
+      "2192",
+      "2207"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Circle",
+      "Octagon",
+      "Ellipse",
+      "Square"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 20 \u00d7 13?",
+    "options": [
+      "260",
+      "261",
+      "255",
+      "265"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Pentagon",
+      "Cube",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "Cl",
+      "H",
+      "Na",
+      "K"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Octagon",
+      "Square",
+      "Circle",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "London",
+      "New Delhi",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 14 \u00d7 2?",
+    "options": [
+      "18",
+      "33",
+      "28",
+      "23"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 12 + 80?",
+    "options": [
+      "92",
+      "91",
+      "93",
+      "97"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Octagon",
+      "Cube",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Mercury",
+      "Uranus",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "80",
+      "90"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Ottawa",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 1 \u00d7 15?",
+    "options": [
+      "14",
+      "5",
+      "20",
+      "15"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.10",
+      "3.14",
+      "3.12"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": [
+      "27",
+      "17",
+      "22",
+      "28"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "74",
+      "65",
+      "63",
+      "64"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 10?",
+    "options": [
+      "1000",
+      "995",
+      "990",
+      "1010"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 66 + 31?",
+    "options": [
+      "97",
+      "92",
+      "98",
+      "107"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 5?",
+    "options": [
+      "125",
+      "126",
+      "115",
+      "120"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Uranus",
+      "Earth",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "7",
+      "13",
+      "8",
+      "18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "120",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Neptune",
+      "Jupiter",
+      "Uranus",
+      "Mercury"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "K",
+      "Cl",
+      "O",
+      "He"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "London",
+      "Ottawa",
+      "Berlin"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.18",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 10?",
+    "options": [
+      "95",
+      "100",
+      "90",
+      "99"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Madrid",
+      "Berlin",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "London",
+      "Ottawa",
+      "Tokyo",
+      "Madrid"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.14",
+      "3.10",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "K",
+      "Na",
+      "C"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Circle",
+      "Hexagon",
+      "Cube",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "London",
+      "Berlin",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 17 \u00d7 5?",
+    "options": [
+      "85",
+      "80",
+      "84",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 7 \u00d7 17?",
+    "options": [
+      "129",
+      "120",
+      "109",
+      "119"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.16",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "H",
+      "He",
+      "K",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.14",
+      "3.12",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.16",
+      "3.12",
+      "3.18"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "90",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 11 \u00d7 5?",
+    "options": [
+      "60",
+      "65",
+      "45",
+      "55"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the cube of 8?",
+    "options": [
+      "507",
+      "522",
+      "513",
+      "512"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Madrid",
+      "Berlin",
+      "Tokyo",
+      "London"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Ellipse",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Neptune",
+      "Uranus",
+      "Venus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 55 + 40?",
+    "options": [
+      "85",
+      "95",
+      "100",
+      "96"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Cube",
+      "Ellipse",
+      "Octagon",
+      "Triangle"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "90",
+      "120",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Cube",
+      "Circle",
+      "Octagon",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "110",
+      "100",
+      "90"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 17?",
+    "options": [
+      "4914",
+      "4923",
+      "4913",
+      "4903"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 1 \u00d7 5?",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "-5"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 76 + 38?",
+    "options": [
+      "109",
+      "114",
+      "113",
+      "104"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "London",
+      "Tokyo",
+      "Ottawa",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.12",
+      "3.10",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Madrid",
+      "Ottawa",
+      "London"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.16",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Octagon",
+      "Ellipse",
+      "Hexagon",
+      "Cube"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "London",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.16",
+      "3.18",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Jupiter",
+      "Neptune"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "Cl",
+      "C",
+      "He",
+      "K"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "100",
+      "90",
+      "110"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Octagon",
+      "Hexagon",
+      "Cube",
+      "Circle"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "O",
+      "Cl",
+      "He",
+      "Na"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Circle",
+      "Cube",
+      "Octagon",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Uranus",
+      "Mercury",
+      "Jupiter",
+      "Neptune"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "80",
+      "110",
+      "100"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "He",
+      "K",
+      "H",
+      "Cl"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Venus",
+      "Neptune",
+      "Earth",
+      "Uranus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "90",
+      "110"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Venus",
+      "Saturn",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.12",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "He",
+      "O",
+      "Na",
+      "K"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 7 \u00d7 9?",
+    "options": [
+      "58",
+      "73",
+      "64",
+      "63"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 11?",
+    "options": [
+      "131",
+      "121",
+      "111",
+      "126"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "90",
+      "100",
+      "120"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "80",
+      "120",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 5 \u00d7 4?",
+    "options": [
+      "30",
+      "21",
+      "20",
+      "25"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Madrid",
+      "Berlin",
+      "Washington, D.C.",
+      "London"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "London",
+      "Ottawa",
+      "New Delhi",
+      "Madrid"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 12 \u00d7 16?",
+    "options": [
+      "193",
+      "191",
+      "202",
+      "192"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Ottawa",
+      "Washington, D.C.",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.18",
+      "3.14",
+      "3.16"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 11 + 75?",
+    "options": [
+      "85",
+      "86",
+      "81",
+      "76"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Venus",
+      "Neptune",
+      "Mercury",
+      "Saturn"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 8 \u00d7 12?",
+    "options": [
+      "86",
+      "96",
+      "91",
+      "95"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "80",
+      "120",
+      "90"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 12?",
+    "options": [
+      "144",
+      "145",
+      "139",
+      "143"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "110",
+      "100",
+      "90"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": [
+      "225",
+      "224",
+      "220",
+      "215"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Neptune",
+      "Mercury"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.16",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Saturn",
+      "Venus",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": [
+      "2743",
+      "2744",
+      "2745",
+      "2754"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": [
+      "69",
+      "74",
+      "64",
+      "54"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 68 + 25?",
+    "options": [
+      "93",
+      "94",
+      "98",
+      "92"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Neptune",
+      "Saturn",
+      "Uranus",
+      "Venus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.16",
+      "3.18",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.18",
+      "3.10",
+      "3.12"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Ellipse",
+      "Cube",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 2?",
+    "options": [
+      "4",
+      "9",
+      "3",
+      "14"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 9 + 81?",
+    "options": [
+      "89",
+      "85",
+      "80",
+      "90"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.18",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 18 \u00d7 17?",
+    "options": [
+      "305",
+      "311",
+      "306",
+      "301"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.16",
+      "3.14",
+      "3.10"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "K",
+      "Na",
+      "O"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Cl",
+      "K",
+      "He",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 61 + 27?",
+    "options": [
+      "78",
+      "98",
+      "88",
+      "93"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Ellipse",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 4 \u00d7 2?",
+    "options": [
+      "7",
+      "-2",
+      "8",
+      "9"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.16",
+      "3.14",
+      "3.18"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5827",
+      "5831",
+      "5822",
+      "5832"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the square of 4?",
+    "options": [
+      "11",
+      "16",
+      "26",
+      "21"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "Cl",
+      "He",
+      "N",
+      "Na"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Ringed Planet?",
+    "options": [
+      "Uranus",
+      "Saturn",
+      "Neptune",
+      "Venus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 16 \u00d7 2?",
+    "options": [
+      "33",
+      "31",
+      "22",
+      "32"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Berlin",
+      "Paris",
+      "London"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.16",
+      "3.18",
+      "3.12",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Madrid",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": [
+      "13",
+      "18",
+      "8",
+      "7"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 17?",
+    "options": [
+      "284",
+      "289",
+      "279",
+      "288"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Hydrogen?",
+    "options": [
+      "K",
+      "H",
+      "He",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Ellipse",
+      "Cube",
+      "Octagon",
+      "Triangle"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 62 + 8?",
+    "options": [
+      "80",
+      "70",
+      "65",
+      "75"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "120",
+      "100",
+      "90"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": [
+      "5837",
+      "5831",
+      "5832",
+      "5822"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the cube of 9?",
+    "options": [
+      "719",
+      "734",
+      "729",
+      "730"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Ellipse",
+      "Triangle",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.14",
+      "3.16",
+      "3.12"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "31",
+      "41",
+      "26",
+      "36"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "120",
+      "110",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 14 + 36?",
+    "options": [
+      "51",
+      "45",
+      "60",
+      "50"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "80",
+      "120",
+      "100",
+      "90"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "100",
+      "90",
+      "120",
+      "80"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "New Delhi",
+      "London",
+      "Berlin"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the square of 7?",
+    "options": [
+      "48",
+      "59",
+      "49",
+      "50"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "120",
+      "100",
+      "80"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 6 sides?",
+    "options": [
+      "Hexagon",
+      "Ellipse",
+      "Cube",
+      "Circle"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": [
+      "6864",
+      "6859",
+      "6854",
+      "6860"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "K",
+      "N",
+      "Na",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which is the chemical symbol for Carbon?",
+    "options": [
+      "He",
+      "C",
+      "Na",
+      "Cl"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.16",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "Berlin",
+      "Madrid",
+      "London"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 3 \u00d7 8?",
+    "options": [
+      "25",
+      "24",
+      "14",
+      "29"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 83 + 29?",
+    "options": [
+      "112",
+      "107",
+      "122",
+      "102"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Uranus",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": [
+      "1723",
+      "1729",
+      "1733",
+      "1728"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 1 \u00d7 5?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "-5"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Mercury",
+      "Uranus",
+      "Earth",
+      "Neptune"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Neptune",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "80"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which shape has 5 sides?",
+    "options": [
+      "Octagon",
+      "Ellipse",
+      "Circle",
+      "Pentagon"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 11 + 7?",
+    "options": [
+      "18",
+      "13",
+      "19",
+      "17"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.16",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which shape has 4 sides?",
+    "options": [
+      "Octagon",
+      "Cube",
+      "Square",
+      "Ellipse"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 6?",
+    "options": [
+      "31",
+      "36",
+      "37",
+      "46"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.14",
+      "3.10",
+      "3.18",
+      "3.16"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Mercury",
+      "Earth",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Neptune",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 15 \u00d7 6?",
+    "options": [
+      "100",
+      "90",
+      "85",
+      "91"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 84 + 55?",
+    "options": [
+      "129",
+      "144",
+      "139",
+      "149"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the square of 19?",
+    "options": [
+      "361",
+      "356",
+      "360",
+      "351"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "London",
+      "Madrid",
+      "Ottawa"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is 17 + 2?",
+    "options": [
+      "19",
+      "24",
+      "20",
+      "29"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Nitrogen?",
+    "options": [
+      "He",
+      "K",
+      "Na",
+      "N"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Ottawa",
+      "London",
+      "Madrid",
+      "Tokyo"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Neptune",
+      "Uranus",
+      "Mars"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Uranus",
+      "Venus",
+      "Mars",
+      "Mercury"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Tokyo",
+      "Ottawa"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.10",
+      "3.12",
+      "3.18",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is 43 + 75?",
+    "options": [
+      "128",
+      "108",
+      "113",
+      "118"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "Which planet is known as the Giant Planet?",
+    "options": [
+      "Neptune",
+      "Mercury",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.10",
+      "3.14",
+      "3.16"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.18",
+      "3.14",
+      "3.16",
+      "3.10"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "options": [
+      "Washington, D.C.",
+      "Ottawa",
+      "London",
+      "Berlin"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which is the chemical symbol for Oxygen?",
+    "options": [
+      "Cl",
+      "O",
+      "He",
+      "K"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": [
+      "Earth",
+      "Uranus",
+      "Mercury",
+      "Venus"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Octagon",
+      "Triangle",
+      "Cube",
+      "Ellipse"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 5 \u00d7 19?",
+    "options": [
+      "90",
+      "96",
+      "95",
+      "85"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "100",
+      "120",
+      "80"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "110",
+      "100",
+      "90",
+      "120"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is 8 \u00d7 19?",
+    "options": [
+      "147",
+      "142",
+      "151",
+      "152"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.18",
+      "3.10",
+      "3.14"
+    ],
+    "answer": "d"
+  },
+  {
+    "question": "What is the value of \u03c0 (pi) approximately?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.10",
+      "3.18"
+    ],
+    "answer": "b"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "120",
+      "90",
+      "100",
+      "110"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "Which shape has 3 sides?",
+    "options": [
+      "Triangle",
+      "Ellipse",
+      "Cube",
+      "Octagon"
+    ],
+    "answer": "a"
+  },
+  {
+    "question": "What is the square of 20?",
+    "options": [
+      "405",
+      "399",
+      "400",
+      "401"
+    ],
+    "answer": "c"
+  },
+  {
+    "question": "What is 2 \u00d7 14?",
+    "options": [
+      "23",
+      "33",
+      "28",
+      "29"
+    ],
+    "answer": "c"
+  }
+]
