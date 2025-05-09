@@ -1,3 +1,5 @@
+// ✅ Updated Quiz Server with Persistent Results, Set-A/B Support, and Client Chat Feature
+
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -20,9 +22,11 @@ using namespace std;
 #define PORT 12345
 #define QUESTIONS_PER_QUIZ 5
 
-mutex mutex_lock;  // Renamed from 'lock' to 'mutex_lock'
+mutex mutex_lock;
 vector<tuple<int, string, string>> clientSockets;
 map<string, int> scores;
+string currentQuizType;
+bool quizStarted = false;
 
 struct Question {
     string question;
@@ -52,14 +56,40 @@ vector<Question> loadQuestionsFromJson(const string &filename) {
     return questions;
 }
 
-vector<Question> getRandomQuiz(const vector<Question> &allQuestions) {
-    srand(time(0));
-    vector<Question> quiz = allQuestions;
-    random_shuffle(quiz.begin(), quiz.end());
-    return vector<Question>(quiz.begin(), quiz.begin() + QUESTIONS_PER_QUIZ);
+vector<Question> getRandomQuiz(vector<Question>& allQuestions) {
+    random_device rd;
+    mt19937 g(rd());
+    shuffle(allQuestions.begin(), allQuestions.end(), g);
+    return vector<Question>(allQuestions.begin(), allQuestions.begin() + QUESTIONS_PER_QUIZ);
 }
 
-void handleClient(int clientSocket, string clientName, const vector<Question>& quiz) {
+void broadcastMessage(const string& message, int excludeSocket = -1) {
+    mutex_lock.lock();
+    for (auto& entry : clientSockets) {
+        int sock = get<0>(entry);
+        if (sock != excludeSocket) {
+            send(sock, message.c_str(), message.size(), 0);
+        }
+    }
+    mutex_lock.unlock();
+}
+
+void chatListener(int clientSocket, string clientName) {
+    char buffer[2048];
+    while (!quizStarted) {
+        memset(buffer, 0, sizeof(buffer));
+        int valread = read(clientSocket, buffer, sizeof(buffer));
+        if (valread > 0) {
+            string msg = trim(string(buffer, valread));
+            if (!msg.empty()) {
+                string fullMsg = "💬 " + clientName + ": " + msg + "\n";
+                broadcastMessage(fullMsg, clientSocket);
+            }
+        }
+    }
+}
+
+void handleClient(int clientSocket, string clientName, string clientRoll, const vector<Question>& quiz) {
     char buffer[2048];
     int score = 0;
     vector<Question> personalizedQuiz = quiz;
@@ -87,28 +117,37 @@ void handleClient(int clientSocket, string clientName, const vector<Question>& q
         questionText += "Your answer (a/b/c/d): ";
         send(clientSocket, questionText.c_str(), questionText.length(), 0);
 
+        fd_set readfds;
+        struct timeval timeout;
+        FD_ZERO(&readfds);
+        FD_SET(clientSocket, &readfds);
+        timeout.tv_sec = 11; timeout.tv_usec = 0;
+
         memset(buffer, 0, sizeof(buffer));
-        int valread = read(clientSocket, buffer, sizeof(buffer));
-        if (valread <= 0) break;
+        int activity = select(clientSocket + 1, &readfds, NULL, NULL, &timeout);
 
-        string answer = trim(string(buffer, valread));
-        char selected = tolower(answer[0]);
+        if (activity > 0 && FD_ISSET(clientSocket, &readfds)) {
+            int valread = read(clientSocket, buffer, sizeof(buffer));
+            string answer = trim(string(buffer, valread));
+            char selected = tolower(answer[0]);
 
-        cout << "📩 " << clientName << " answered: " << selected
-             << " for question " << i + 1 << "\n";
+            cout << "📩 " << clientName << " answered: " << selected << " for question " << i + 1 << "\n";
 
-        if (selected == q.correctOption) {
-            score++;
-            string msg = "✅ Correct!\n\n";
-            send(clientSocket, msg.c_str(), msg.length(), 0);
+            if (selected == q.correctOption) {
+                score++;
+                string msg = "✅ Correct!\n\n";
+                send(clientSocket, msg.c_str(), msg.length(), 0);
+            } else {
+                string msg = "❌ Wrong! Correct answer: ";
+                msg += q.correctOption;
+                msg += "\n\n";
+                send(clientSocket, msg.c_str(), msg.length(), 0);
+            }
         } else {
-            string msg = "❌ Wrong! Correct answer: ";
-            msg += q.correctOption;
-            msg += "\n\n";
+            string msg = "⏳ Time's up! You didn't answer this question.\n\n";
             send(clientSocket, msg.c_str(), msg.length(), 0);
+            cout << "⚠️  " << clientName << " did not answer question " << i + 1 << "\n";
         }
-
-        this_thread::sleep_for(chrono::milliseconds(500));
     }
 
     string result = "🎉 Quiz Over! Your Score: " + to_string(score) + "/" + to_string(QUESTIONS_PER_QUIZ) + "\n";
@@ -116,7 +155,19 @@ void handleClient(int clientSocket, string clientName, const vector<Question>& q
 
     mutex_lock.lock();
     scores[clientName] = score;
+
+    json entry = {
+        {"name", clientName},
+        {"roll", clientRoll},
+        {"quiz_type", currentQuizType},
+        {"score", score},
+        {"total", QUESTIONS_PER_QUIZ},
+        {"timestamp", time(0)}
+    };
+    ofstream file("result.json", ios::app);
+    file << entry << endl;
     mutex_lock.unlock();
+
     close(clientSocket);
 }
 
@@ -150,8 +201,10 @@ void acceptClients(int server_fd) {
                 cout << "✅ " << name << " (" << roll << ") connected.\n";
                 mutex_lock.unlock();
 
-                string waitMsg = "🎮 Waiting for quiz to start...\n";
+                string waitMsg = "🎮 Waiting for quiz to start... (You can chat while waiting)\n";
                 send(new_socket, waitMsg.c_str(), waitMsg.length(), 0);
+
+                chatListener(new_socket, name);
             }).detach();
         }
     }
@@ -161,12 +214,17 @@ int main() {
     int server_fd;
     struct sockaddr_in address;
     int opt = 1;
-    vector<Question> allQuestions = loadQuestionsFromJson("questions.json");
+
+    cout << "Choose quiz type (Midsem/Endsem): ";
+    getline(cin, currentQuizType);
+
+    string filename = (currentQuizType == "Midsem") ? "setA.json" : "setB.json";
+    vector<Question> allQuestions = loadQuestionsFromJson(filename);
 
     server_fd = socket(AF_INET, SOCK_STREAM, 0);
     setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR | SO_REUSEPORT, &opt, sizeof(opt));
     address.sin_family = AF_INET;
-    address.sin_addr.s_addr = INADDR_ANY; // Accept external connections
+    address.sin_addr.s_addr = INADDR_ANY;
     address.sin_port = htons(PORT);
     bind(server_fd, (struct sockaddr *)&address, sizeof(address));
     listen(server_fd, 10);
@@ -184,13 +242,16 @@ int main() {
             cout << "⚠ No clients connected yet!\n";
     }
 
+    quizStarted = true;
+
     cout << "🔥 Starting the quiz for " << clientSockets.size() << " players...\n";
     vector<Question> quiz = getRandomQuiz(allQuestions);
     vector<thread> threads;
     for (auto& entry : clientSockets) {
         int socket = get<0>(entry);
         string name = get<1>(entry);
-        threads.emplace_back(handleClient, socket, name, quiz);
+        string roll = get<2>(entry);
+        threads.emplace_back(handleClient, socket, name, roll, quiz);
     }
     for (auto& t : threads) if (t.joinable()) t.join();
     acceptThread.detach();
